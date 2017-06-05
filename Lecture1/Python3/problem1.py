@@ -1,0 +1,5 @@
+print(isinstance(12, int))
+print(isinstance("abc", str))
+print(isinstance([1,2,3,4], list))
+print(isinstance(10e3 // 5, float))
+print(isinstance(list(range(10, 100, 5)), list))
