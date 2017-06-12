@@ -1,3 +1,0 @@
-list_of_strings = ["This", "is", "a", "cool", "and", "useful", "method"]
-
-print "<->".join(list_of_strings)
